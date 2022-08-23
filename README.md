@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mariano.
-- 👀 I’m interested in remote jobs developing JAVA for Junior positions
+- 👀 I’m interested in remote jobs developing JAVA aplications in Junior positions
 - 🌱 I’m currently learning PYTHON in CoderHouse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mar.fer.alf@gmail.com
